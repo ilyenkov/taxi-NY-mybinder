@@ -7,7 +7,7 @@ dependencies:
   - matplotlib
   - pandas
   - seaborn
-  - ipywidgets
+  - ipywidgets=5.2.2
   - pip:
     - folium
   - conda:
