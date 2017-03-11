@@ -5,10 +5,10 @@ dependencies:
   - numpy
   - notebook
   - matplotlib
-  - pandas
-  - seaborn
   - ipywidgets=5.2.2
   - pip:
     - folium
+    - pandas
+    - seaborn
   - conda:
     - basemap
