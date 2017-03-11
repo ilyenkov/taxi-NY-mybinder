@@ -4,7 +4,7 @@ dependencies:
   - python=2.7
   - numpy
   - notebook
-  - matplotlib
+  - matplotlib=1.5.3
   - ipywidgets=5.2.2
   - pip:
     - folium
